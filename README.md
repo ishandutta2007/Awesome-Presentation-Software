@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=fla--square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discor&&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Presentation-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Presentation-Software?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Presentation-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Presentation-Software?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Presentation-Software/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Presentation-Software?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -53,57 +53,57 @@ The sector is **moderately concentrated** at the traditional enterprise tier (do
 
 ## 💻 Open-Source GitHub Projects
 
-> Sorted descending by GitHub star count. Star badges link directly to each repository's stargazers page.
+> Sorted descending by GitHub Stars_Count. Stars_Badges link directly to each repository's stargazers page.
 
-- 👑 **[reveal.js](https://github.com/hakimel/reveal.js)** [![GitHub stars](https://img.shields.io/github/stars/hakimel/reveal.js?style=social&color=white)](https://github.com/hakimel/reveal.js/stargazers)  
+- 👑 **[reveal.js](https://github.com/hakimel/reveal.js)** [![GitHub_Stars](https://img.shields.io/github/stars/hakimel/reveal.js?style=social&color=white)](https://github.com/hakimel/reveal.js/stargazers)  
   **The leading open-source HTML presentation framework**. Enables developers to build beautiful web-native slide decks using HTML and Markdown with CSS 3D transforms, nested slides, speaker notes, live code highlighting, and PDF export.
 
-- ⚡️ **[Slidev](https://github.com/slidevjs/slidev)** [![GitHub stars](https://img.shields.io/github/stars/slidevjs/slidev?style=social&color=white)](https://github.com/slidevjs/slidev/stargazers)  
+- ⚡️ **[Slidev](https://github.com/slidevjs/slidev)** [![GitHub_Stars](https://img.shields.io/github/stars/slidevjs/slidev?style=social&color=white)](https://github.com/slidevjs/slidev/stargazers)  
   **Presentation slides for developers powered by Vue 3 & Vite**. Features Markdown-based slide composition, interactive Vue components, code highlighting, presenter mode, embedded recording, and instant PDF/PNG export.
 
-- 🔄 **[Pandoc](https://github.com/jgm/pandoc)** [![GitHub stars](https://img.shields.io/github/stars/jgm/pandoc?style=social&color=white)](https://github.com/jgm/pandoc/stargazers)  
+- 🔄 **[Pandoc](https://github.com/jgm/pandoc)** [![GitHub_Stars](https://img.shields.io/github/stars/jgm/pandoc?style=social&color=white)](https://github.com/jgm/pandoc/stargazers)  
   **Universal document converter**. Converts Markdown, reStructuredText, or LaTeX into HTML5 slide shows (reveal.js, Slidy, Slideous, DZSlides), PowerPoint (.pptx) presentations, or Beamer PDF slide decks.
 
-- 🌀 **[Impress.js](https://github.com/impress/impress.js)** [![GitHub stars](https://img.shields.io/github/stars/impress/impress.js?style=social&color=white)](https://github.com/impress/impress.js/stargazers)  
+- 🌀 **[Impress.js](https://github.com/impress/impress.js)** [![GitHub_Stars](https://img.shields.io/github/stars/impress/impress.js?style=social&color=white)](https://github.com/impress/impress.js/stargazers)  
   **CSS3 transform-based presentation framework**. Enables creation of non-linear, zooming presentations in 3D canvas space—serving as the original open-source Prezi alternative.
 
-- 📝 **[Remark.js](https://github.com/gnab/remark)** [![GitHub stars](https://img.shields.io/github/stars/gnab/remark?style=social&color=white)](https://github.com/gnab/remark/stargazers)  
+- 📝 **[Remark.js](https://github.com/gnab/remark)** [![GitHub_Stars](https://img.shields.io/github/stars/gnab/remark?style=social&color=white)](https://github.com/gnab/remark/stargazers)  
   **In-browser Markdown-driven slideshow tool**. Targeted at software engineers wanting clean, text-based slides directly rendered in any browser with syntax highlighting and touch support.
 
-- 🎯 **[Marp](https://github.com/marp-team/marp)** [![GitHub stars](https://img.shields.io/github/stars/marp-team/marp?style=social&color=white)](https://github.com/marp-team/marp/stargazers)  
+- 🎯 **[Marp](https://github.com/marp-team/marp)** [![GitHub_Stars](https://img.shields.io/github/stars/marp-team/marp?style=social&color=white)](https://github.com/marp-team/marp/stargazers)  
   **Markdown-to-slides ecosystem**. Provides command-line interface (Marp CLI), VS Code extensions, and web renderers to compile plain Markdown files into custom HTML, PDF, or PowerPoint decks.
 
-- ⚛️ **[mdx-deck](https://github.com/jxnblk/mdx-deck)** [![GitHub stars](https://img.shields.io/github/stars/jxnblk/mdx-deck?style=social&color=white)](https://github.com/jxnblk/mdx-deck/stargazers)  
+- ⚛️ **[mdx-deck](https://github.com/jxnblk/mdx-deck)** [![GitHub_Stars](https://img.shields.io/github/stars/jxnblk/mdx-deck?style=social&color=white)](https://github.com/jxnblk/mdx-deck/stargazers)  
   **MDX-based presentation framework for React developers**. Write slides using Markdown mixed seamlessly with custom React JSX components, themes, and presenter view.
 
-- 🎭 **[Spectacle](https://github.com/FormidableLabs/spectacle)** [![GitHub stars](https://img.shields.io/github/stars/FormidableLabs/spectacle?style=social&color=white)](https://github.com/FormidableLabs/spectacle/stargazers)  
+- 🎭 **[Spectacle](https://github.com/FormidableLabs/spectacle)** [![GitHub_Stars](https://img.shields.io/github/stars/FormidableLabs/spectacle?style=social&color=white)](https://github.com/FormidableLabs/spectacle/stargazers)  
   **ReactJS presentation library**. Allows web developers to compose slide presentations using modular JSX elements with interactive live code editing and customizable animations.
 
-- 📑 **[OnlyOffice Presentation Editor](https://github.com/ONLYOFFICE/DocumentServer)** [![GitHub stars](https://img.shields.io/github/stars/ONLYOFFICE/DocumentServer?style=social&color=white)](https://github.com/ONLYOFFICE/DocumentServer/stargazers)  
+- 📑 **[OnlyOffice Presentation Editor](https://github.com/ONLYOFFICE/DocumentServer)** [![GitHub_Stars](https://img.shields.io/github/stars/ONLYOFFICE/DocumentServer?style=social&color=white)](https://github.com/ONLYOFFICE/DocumentServer/stargazers)  
   **Open-source collaborative slide editor with maximum PowerPoint format compatibility**. Uses OOXML (.pptx) as core format with real-time co-editing, comments, and Nextcloud/ownCloud integration.
 
-- 🎨 **[WebSlides](https://github.com/webslides/WebSlides)** [![GitHub stars](https://img.shields.io/github/stars/webslides/WebSlides?style=social&color=white)](https://github.com/webslides/WebSlides/stargazers)  
+- 🎨 **[WebSlides](https://github.com/webslides/WebSlides)** [![GitHub_Stars](https://img.shields.io/github/stars/webslides/WebSlides?style=social&color=white)](https://github.com/webslides/WebSlides/stargazers)  
   **HTML presentation framework with 60+ pre-built slide templates**. Designed for fast creation of responsive web presentations, portfolios, and landing page decks.
 
-- 🛠️ **[PptxGenJS](https://github.com/gitbrent/PptxGenJS)** [![GitHub stars](https://img.shields.io/github/stars/gitbrent/PptxGenJS?style=social&color=white)](https://github.com/gitbrent/PptxGenJS/stargazers)  
+- 🛠️ **[PptxGenJS](https://github.com/gitbrent/PptxGenJS)** [![GitHub_Stars](https://img.shields.io/github/stars/gitbrent/PptxGenJS?style=social&color=white)](https://github.com/gitbrent/PptxGenJS/stargazers)  
   **JavaScript library to generate PowerPoint (.pptx) files programmatically**. Supports tables, charts, images, and custom slide shapes in Node.js or browser apps.
 
-- 🎴 **[Deck.js](https://github.com/imakewebthings/deck.js)** [![GitHub stars](https://img.shields.io/github/stars/imakewebthings/deck.js?style=social&color=white)](https://github.com/imakewebthings/deck.js/stargazers)  
+- 🎴 **[Deck.js](https://github.com/imakewebthings/deck.js)** [![GitHub_Stars](https://img.shields.io/github/stars/imakewebthings/deck.js?style=social&color=white)](https://github.com/imakewebthings/deck.js/stargazers)  
   **Flexible HTML presentation library**. Features modular extensions, CSS themes, code highlighting, and scale support for mobile and desktop screens.
 
-- 🔌 **[Bespoke.js](https://github.com/bespokejs/bespoke)** [![GitHub stars](https://img.shields.io/github/stars/bespokejs/bespoke?style=social&color=white)](https://github.com/bespokejs/bespoke/stargazers)  
+- 🔌 **[Bespoke.js](https://github.com/bespokejs/bespoke)** [![GitHub_Stars](https://img.shields.io/github/stars/bespokejs/bespoke?style=social&color=white)](https://github.com/bespokejs/bespoke/stargazers)  
   **DIY presentation micro-framework**. Lightweight plugin architecture for custom slide transitions, bullet animations, keyboard shortcuts, and touch gestures.
 
-- 🖥️ **[LibreOffice Impress](https://github.com/LibreOffice/core)** [![GitHub stars](https://img.shields.io/github/stars/LibreOffice/core?style=social&color=white)](https://github.com/LibreOffice/core/stargazers)  
+- 🖥️ **[LibreOffice Impress](https://github.com/LibreOffice/core)** [![GitHub_Stars](https://img.shields.io/github/stars/LibreOffice/core?style=social&color=white)](https://github.com/LibreOffice/core/stargazers)  
   **The flagship open-source desktop presentation application**. Complete PowerPoint alternative with native ODF slide format support, animations, master slides, and PPTX export.
 
-- 🐍 **[python-pptx](https://github.com/scanny/python-pptx)** [![GitHub stars](https://img.shields.io/github/stars/scanny/python-pptx?style=social&color=white)](https://github.com/scanny/python-pptx/stargazers)  
+- 🐍 **[python-pptx](https://github.com/scanny/python-pptx)** [![GitHub_Stars](https://img.shields.io/github/stars/scanny/python-pptx?style=social&color=white)](https://github.com/scanny/python-pptx/stargazers)  
   **Python library for creating and modifying PowerPoint (.pptx) files**. Automates slide generation, reporting, chart generation, and bulk presentation updates.
 
-- 🔍 **[Sozi](https://github.com/senshu/Sozi)** [![GitHub stars](https://img.shields.io/github/stars/senshu/Sozi?style=social&color=white)](https://github.com/senshu/Sozi/stargazers)  
+- 🔍 **[Sozi](https://github.com/senshu/Sozi)** [![GitHub_Stars](https://img.shields.io/github/stars/senshu/Sozi?style=social&color=white)](https://github.com/senshu/Sozi/stargazers)  
   **SVG zooming presentation application**. Integrates with Inkscape vector artwork to design non-linear presentations using pan, zoom, and rotation paths.
 
-- 🚁 **[Hovercraft](https://github.com/regebro/hovercraft)** [![GitHub stars](https://img.shields.io/github/stars/regebro/hovercraft?style=social&color=white)](https://github.com/regebro/hovercraft/stargazers)  
+- 🚁 **[Hovercraft](https://github.com/regebro/hovercraft)** [![GitHub_Stars](https://img.shields.io/github/stars/regebro/hovercraft?style=social&color=white)](https://github.com/regebro/hovercraft/stargazers)  
   **3D zooming presentation generator**. Compiles reStructuredText (reST) text documents directly into impress.js presentations for Python developers.
 
 ---
