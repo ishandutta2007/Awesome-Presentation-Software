@@ -1,255 +1,147 @@
-# Awesome-Presentation-Software
+# Awesome Presentation Software 📊✨
 
-## Top Presentation Software Ecosystem
+<p align="left">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=fla--square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discor&&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Presentation-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Presentation-Software?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Presentation-Software/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Presentation-Software?style=social" alt="GitHub forks" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+![Awesome Presentation Software Header Banner](assets/banner.svg)
 
-
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-
-*Focused on Slide Creation, Real-Time Collaboration & Open-Source Presentation Tools*  
-
-**Last updated: October 2026**
-
-
-
-This repository tracks notable **commercial presentation platforms** and **open-source projects** that help users create, edit, and deliver slide decks, pitch decks, and visual presentations — from traditional linear slides to AI-generated decks and web-native presentations.
-
-
-
-**Examples** include Microsoft PowerPoint, Google Slides, Prezi, Canva, Pitch, Beautiful.ai, Zoho Show, Keynote, Slides, and Gamma (the category leaders).
-
-
-
-**Open-source emphasis**: Presentation software is a strong open-source domain. **LibreOffice Impress** and **OnlyOffice Presentation** provide full-featured desktop and collaborative editing. **Marp** and **Slidev** bring Markdown-to-slides workflows loved by developers, while **reveal.js**, **Impress.js**, and **Spectacle** deliver web-native presentations. **Sozi** and **Prezi-like tools** enable zooming presentations. This section is heavily expanded.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-
-
-- **[Microsoft PowerPoint](https://www.microsoft.com/microsoft-365/powerpoint)**  
-
-  **The industry standard for presentations** — unmatched feature depth, animations, transitions, and Microsoft 365 integration. **Subscription-based** with Copilot AI for slide generation. **The reference point for all presentation software** .
-
-
-
-- **[Google Slides](https://slides.google.com/)**  
-
-  **The leading collaborative presentation tool** — free, browser-based with real-time co-editing, version history, and Google Workspace integration. **The best free option** — limited animations and offline functionality compared to PowerPoint.
-
-
-
-- **[Prezi](https://prezi.com/)**  
-
-  **The pioneer of zooming presentations** — non-linear canvas with zoom transitions. **Subscription-based** with free tier for public presentations. **Best for engaging, non-linear storytelling** .
-
-
-
-- **[Canva](https://www.canva.com/)**  
-
-  **The design-first presentation platform** — 250,000+ templates, stock photos, and drag-and-drop design. **Free tier with premium content**; Pro at $12.99/month. **The best for non-designers** wanting beautiful slides.
-
-
-
-- **[Pitch](https://pitch.com/)**  
-
-  **Modern collaborative presentation platform** — beautiful templates, real-time collaboration, and analytics. **Free tier available**; paid from $8/user/month. **Best for startups and modern teams** .
-
-
-
-- **[Beautiful.ai](https://www.beautiful.ai/)**  
-
-  **AI-powered presentation software** — automatically formats slides as you add content. **Subscription-based** ($12/month). **Best for non-designers** wanting professional slides without effort.
-
-
-
-- **[Zoho Show](https://www.zoho.com/show/)**  
-
-  **Cloud-based presentation software** within Zoho ecosystem — collaborative editing, templates, and integrations. **Free tier available**; part of Zoho One. **Best for Zoho ecosystem users** .
-
-
-
-- **[Keynote](https://www.apple.com/keynote/)**  
-
-  **Apple's presentation software** — beautiful templates, cinematic transitions, and Apple Pencil support. **Free with Apple devices** . **Best for macOS/iOS users** wanting native Apple design.
-
-
-
-- **[Gamma](https://gamma.app/)**  
-
-  **AI-powered presentation generator** — create decks from prompts, documents, or URLs. **Free tier available**; paid from $10/month. **The leading AI presentation tool** — fastest path from idea to deck.
-
-
-
-## Open-Source GitHub Projects
-
-
-
-- **[LibreOffice Impress](https://github.com/LibreOffice/core)**  
-
-  **The leading open-source desktop presentation software**, MPL-2.0 licensed . **Full-featured with slides, animations, transitions, and templates** . **Native ODF support with PPTX compatibility** . Available on Windows, macOS, and Linux . **The de facto open-source PowerPoint alternative** — complete, mature, and backed by The Document Foundation . **Best for desktop presentation work with maximum feature depth** .
-
-
-
-- **[OnlyOffice Presentation](https://github.com/ONLYOFFICE/DocumentServer)**  
-
-  **Open-source collaborative presentation editor with the highest PowerPoint format compatibility** — OOXML is the core format . AGPL-3.0 licensed DocumentServer with Community Edition free for up to 20 concurrent connections . **Real-time co-editing, comments, and review** . Integrates with Nextcloud, ownCloud, Seafile, and Moodle . **The leading open-source alternative to Google Slides for collaborative editing** .
-
-
-
-- **[Marp](https://github.com/marp-team/marp)**  
-
-  **Markdown-to-slides ecosystem** — write presentations in Markdown, export to HTML, PDF, or PPTX . MIT licensed with **10,000+ GitHub stars** . **Marp CLI** for command-line generation, **Marp for VS Code** for live preview, and **Marp Web** for browser editing . **The best developer-friendly presentation tool** — version-controllable, text-based slides . **Best for technical presentations and developer workflows** .
-
-
-
-- **[Slidev](https://github.com/slidevjs/slidev)**  
-
-  **Presentation slides for developers**, MIT licensed with **35,000+ GitHub stars** . **Markdown-based with Vue components** — code highlighting, live coding, and animations . **Presenter mode, recording, and PDF export** . **The most feature-rich developer presentation tool** — used by Vue.js and Vite communities . **Best for developer conferences and technical talks** .
-
-
-
-- **[reveal.js](https://github.com/hakimel/reveal.js)**  
-
-  **The leading open-source HTML presentation framework**, MIT licensed with **68,000+ GitHub stars** . **Write presentations in HTML/Markdown** — fully customizable with CSS and JavaScript . **Nested slides, speaker notes, PDF export, and plugins** . **The de facto standard for web-based presentations** — used by countless conferences and companies . **Best for web-native, highly customized presentations** .
-
-
-
-- **[Impress.js](https://github.com/impress/impress.js)**  
-
-  **CSS3 transform-based presentation framework**, MIT licensed with **37,000+ GitHub stars** . **Prezi-like zooming and 3D transitions** — non-linear presentations . **The original open-source Prezi alternative** . **Best for engaging, spatial presentations** .
-
-
-
-- **[Spectacle](https://github.com/FormidableLabs/spectacle)**  
-
-  **React-based presentation library**, MIT licensed with **10,000+ GitHub stars** . **Write presentations as React components** — JSX for slides . **Live code editing, presenter mode, and PDF export** . **Best for React developers** wanting presentations as code.
-
-
-
-- **[Sozi](https://github.com/sozi-project/sozi)**  
-
-  **Open-source Prezi alternative** — zooming presentations in SVG . GPL-3.0 licensed . **Create presentations in Inkscape, add zoom/pan paths with Sozi** . **The best open-source Prezi alternative for designers** . **Best for non-linear, zooming presentations** .
-
-
-
-- **[Hovercraft](https://github.com/regebro/hovercraft)**  
-
-  **Open-source Prezi alternative in reStructuredText**, MIT licensed . **Generate impress.js presentations from RST** . **Best for Python developers** wanting Prezi-style presentations.
-
-
-
-- **[Strut](https://github.com/MrRio/strut)**  
-
-  **Open-source web-based presentation editor** — ImPress.js-based with visual editing . **The best open-source alternative to Prezi for visual editing** . **Best for visual, non-linear presentations** .
-
-
-
-- **[WebSlides](https://github.com/webslides/WebSlides)**  
-
-  **HTML presentation framework with beautiful default designs**, MIT licensed . **Demo-driven with 60+ slide templates** . **The easiest way to create beautiful HTML presentations** . **Best for quick, attractive web presentations** .
-
-
-
-- **[mdx-deck](https://github.com/jxnblk/mdx-deck)**  
-
-  **MDX-based presentation framework**, MIT licensed . **Write slides in MDX** — Markdown + JSX components . **Themed, customizable, and developer-friendly** . **Best for React/MDX developers** .
-
-
-
-- **[Pandoc](https://github.com/jgm/pandoc)**  
-
-  **Universal document converter** — generate presentations from Markdown to HTML slides, PPTX, and Beamer . GPL-2.0 licensed . **The standard for document conversion** . **Best for converting existing documents to presentations** .
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **Calligra Stage** — KDE's presentation software (part of Calligra Suite) .
-
-- **NeoOffice Impress** — macOS-native LibreOffice fork (dated) .
-
-- **SoftMaker Presentations** — Commercial with free Linux version (not open-source) .
-
-- **Google Slides API** — For programmatic slide generation (not open-source) .
-
-- **Slidebean** — AI presentation tool (not open-source) .
-
-- **Deck.js** — Modern HTML presentation library (older but influential) .
-
-- **Flowtime.js** — HTML presentation framework with timeline navigation .
-
-- **Bespoke.js** — DIY presentation micro-framework .
-
-- **Cleaver** — 30-second slideshows for hackers (Markdown to HTML) .
-
-- **GitPitch** — Markdown presentations from GitHub repos (now commercial) .
-
-
-
-**Frameworks for building custom presentation solutions**: Choose based on workflow. **LibreOffice Impress** for desktop PowerPoint replacement . **OnlyOffice Presentation** for collaborative web-based editing . **Marp** or **Slidev** for Markdown-to-slides developer workflows . **reveal.js** for web-native HTML presentations . **Impress.js** or **Sozi** for Prezi-style zooming presentations . **Spectacle** or **mdx-deck** for React-based presentations . **Pandoc** for document conversion to slides . Note that true enterprise presentation with AI generation (Gamma, Beautiful.ai), real-time collaboration, and design templates (Canva) remains primarily commercial territory; open-source stacks provide strong desktop editing, Markdown workflows, and web-native presentation foundations that require integration for complete presentation workflows.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Presentation software handles potentially sensitive business content. Self-hosted solutions require proper security hardening, access controls, and backup procedures.
-
-- **Format compatibility varies** — LibreOffice Impress and OnlyOffice have strong but not perfect PPTX compatibility. Complex animations and transitions may not work identically . Validate complex decks before production use.
-
-- **Markdown-based tools (Marp, Slidev) are developer-focused** — they excel for technical content but lack the design flexibility of PowerPoint or Canva for visual-heavy presentations .
-
-- **Impress.js and Sozi are for non-linear presentations** — they are not replacements for traditional linear slide decks. Use them for specific storytelling needs .
-
-- The open-source ecosystem provides strong desktop editing, Markdown workflows, and web-native presentation foundations, but **AI generation, real-time collaboration, and design templates** remain primarily commercial offerings.
-
-
+> A curated list of **Presentation Software**, **AI Pitch Deck Generators**, **Web-Native Slide Frameworks**, and **Open-Source PowerPoint Alternatives**.
 
 ---
 
+## 📖 Table of Contents
 
+- [💡 Market Overview & Insights](#-market-overview--insights)
+- [🏢 SaaS & Commercial Hosted Platforms](#-saas--commercial-hosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
+- [❤️ Support & Sponsorship](#%EF%B8%8F-support--sponsorship)
+- [📈 Star History](#-star-history)
 
-**Made for presenters, educators, developers, and organizations seeking presentation sovereignty.**  
+---
 
-Let's make presentation software more open, transparent, and accessible.
+## 💡 Market Overview & Insights
+
+The global **Presentation Software Market** is estimated at **~$11.5 Billion (2026)** with a projected CAGR of **~12.4%**. 
+
+The sector is **moderately concentrated** at the traditional enterprise tier (dominated by Microsoft PowerPoint & Google Workspace), but **highly fragmented** across innovative niches such as design-first platforms (Canva), AI deck generators (Gamma, Beautiful.ai), and developer-centric Markdown presentation engines (reveal.js, Slidev, Marp).
+
+---
+
+## 🏢 SaaS & Commercial Hosted Platforms
+
+> Sorted descending by company valuation, market capitalization, or annual revenue.
+
+| Product / Platform | Description & Key Strengths | Starting Paid Price | Free Tier / Trial Details | Company Size (Valuation / Revenue / Market Cap) |
+| :--- | :--- | :--- | :--- | :--- |
+|  **[Apple Keynote](https://www.apple.com/keynote/)** | Apple's flagship presentation editor featuring cinematic transitions, Apple Pencil support, and elegant templates. | **$0.00** (Included free with Apple hardware) | 100% Free for all Apple ID account holders with 5 GB iCloud storage | **~$3.4 Trillion** (Apple Market Cap / $385B+ Revenue) |
+| 🪟 **[Microsoft PowerPoint](https://www.microsoft.com/microsoft-365/powerpoint)** | The industry-standard presentation software with rich animations, Copilot AI integration, and deep Office 365 workflow support. | **$6.00/user/month** (Microsoft 365 Business Basic) or $69.99/year personal | Free web version at Office.com with 5 GB OneDrive cloud storage | **~$3.2 Trillion** (Microsoft Market Cap / $245B+ Revenue) |
+| 🌐 **[Google Slides](https://slides.google.com/)** | Web-first collaborative presentation platform with real-time co-editing, version history, and seamless Google Workspace integration. | **$6.00/user/month** (Google Workspace Business Starter) | 100% Free personal account with 15 GB shared Google Drive storage | **~$2.1 Trillion** (Alphabet Market Cap / $307B+ Revenue) |
+| 🎨 **[Canva](https://www.canva.com/)** | Design-first presentation platform offering 250,000+ templates, stock assets, brand kits, and intuitive drag-and-drop slide creation. | **$12.99/month** (or $119.99/year Canva Pro) | Free forever plan with 5 GB cloud storage, 250,000+ templates & 500+ fonts | **~$26.0 Billion** Valuation ($2.0B+ Annual Revenue) |
+| 💼 **[Zoho Show](https://www.zoho.com/show/)** | Cloud presentation app within the Zoho ecosystem providing real-time collaboration, interactive slide elements, and smart publishing. | **$3.00/user/month** (Zoho Workplace Starter) | Free standalone plan with 5 GB storage for up to 5 team members | **~$5.0 Billion** Valuation ($1.2B+ Annual Revenue) |
+| 🚀 **[Pitch](https://pitch.com/)** | Next-generation pitch deck software built for modern teams with real-time collaboration, custom design systems, and deck analytics. | **$8.00/user/month** (Billed annually at $96/yr) | Free plan with up to 2 workspace members, unlimited decks & watermark export | **~$600 Million** Valuation ($85M+ Total Raised) |
+| 🔍 **[Prezi](https://prezi.com/)** | Pioneer of zooming presentation software featuring non-linear canvas layouts, spatial animations, and interactive video presentations. | **$5.00/month** (Prezi Standard plan) | 14-day free trial; Basic free plan with up to 5 public presentations | **~$300 Million** Valuation ($100M+ Annual Revenue) |
+| 🤖 **[Beautiful.ai](https://www.beautiful.ai/)** | Smart AI-powered presentation editor that automatically formats slides, aligns content, and applies typography rules dynamically. | **$12.00/month** (Billed annually at $144/year) | 14-day free trial with full access to smart templates & AI formatting | **~$100 Million** Valuation ($15M+ Annual Revenue) |
+| ⚡️ **[Gamma](https://gamma.app/)** | AI presentation generator that transforms text prompts, outlines, or docs into interactive presentation decks in seconds. | **$8.00/user/month** (Plus plan billed annually) | 400 free AI credits on signup; unlimited non-AI editing & web sharing free forever | **~$100 Million** Valuation ($12M+ Total Raised) |
+
+---
+
+## 💻 Open-Source GitHub Projects
+
+> Sorted descending by GitHub star count. Star badges link directly to each repository's stargazers page.
+
+- 👑 **[reveal.js](https://github.com/hakimel/reveal.js)** [![GitHub stars](https://img.shields.io/github/stars/hakimel/reveal.js?style=social&color=white)](https://github.com/hakimel/reveal.js/stargazers)  
+  **The leading open-source HTML presentation framework**. Enables developers to build beautiful web-native slide decks using HTML and Markdown with CSS 3D transforms, nested slides, speaker notes, live code highlighting, and PDF export.
+
+- ⚡️ **[Slidev](https://github.com/slidevjs/slidev)** [![GitHub stars](https://img.shields.io/github/stars/slidevjs/slidev?style=social&color=white)](https://github.com/slidevjs/slidev/stargazers)  
+  **Presentation slides for developers powered by Vue 3 & Vite**. Features Markdown-based slide composition, interactive Vue components, code highlighting, presenter mode, embedded recording, and instant PDF/PNG export.
+
+- 🔄 **[Pandoc](https://github.com/jgm/pandoc)** [![GitHub stars](https://img.shields.io/github/stars/jgm/pandoc?style=social&color=white)](https://github.com/jgm/pandoc/stargazers)  
+  **Universal document converter**. Converts Markdown, reStructuredText, or LaTeX into HTML5 slide shows (reveal.js, Slidy, Slideous, DZSlides), PowerPoint (.pptx) presentations, or Beamer PDF slide decks.
+
+- 🌀 **[Impress.js](https://github.com/impress/impress.js)** [![GitHub stars](https://img.shields.io/github/stars/impress/impress.js?style=social&color=white)](https://github.com/impress/impress.js/stargazers)  
+  **CSS3 transform-based presentation framework**. Enables creation of non-linear, zooming presentations in 3D canvas space—serving as the original open-source Prezi alternative.
+
+- 📝 **[Remark.js](https://github.com/gnab/remark)** [![GitHub stars](https://img.shields.io/github/stars/gnab/remark?style=social&color=white)](https://github.com/gnab/remark/stargazers)  
+  **In-browser Markdown-driven slideshow tool**. Targeted at software engineers wanting clean, text-based slides directly rendered in any browser with syntax highlighting and touch support.
+
+- 🎯 **[Marp](https://github.com/marp-team/marp)** [![GitHub stars](https://img.shields.io/github/stars/marp-team/marp?style=social&color=white)](https://github.com/marp-team/marp/stargazers)  
+  **Markdown-to-slides ecosystem**. Provides command-line interface (Marp CLI), VS Code extensions, and web renderers to compile plain Markdown files into custom HTML, PDF, or PowerPoint decks.
+
+- ⚛️ **[mdx-deck](https://github.com/jxnblk/mdx-deck)** [![GitHub stars](https://img.shields.io/github/stars/jxnblk/mdx-deck?style=social&color=white)](https://github.com/jxnblk/mdx-deck/stargazers)  
+  **MDX-based presentation framework for React developers**. Write slides using Markdown mixed seamlessly with custom React JSX components, themes, and presenter view.
+
+- 🎭 **[Spectacle](https://github.com/FormidableLabs/spectacle)** [![GitHub stars](https://img.shields.io/github/stars/FormidableLabs/spectacle?style=social&color=white)](https://github.com/FormidableLabs/spectacle/stargazers)  
+  **ReactJS presentation library**. Allows web developers to compose slide presentations using modular JSX elements with interactive live code editing and customizable animations.
+
+- 📑 **[OnlyOffice Presentation Editor](https://github.com/ONLYOFFICE/DocumentServer)** [![GitHub stars](https://img.shields.io/github/stars/ONLYOFFICE/DocumentServer?style=social&color=white)](https://github.com/ONLYOFFICE/DocumentServer/stargazers)  
+  **Open-source collaborative slide editor with maximum PowerPoint format compatibility**. Uses OOXML (.pptx) as core format with real-time co-editing, comments, and Nextcloud/ownCloud integration.
+
+- 🎨 **[WebSlides](https://github.com/webslides/WebSlides)** [![GitHub stars](https://img.shields.io/github/stars/webslides/WebSlides?style=social&color=white)](https://github.com/webslides/WebSlides/stargazers)  
+  **HTML presentation framework with 60+ pre-built slide templates**. Designed for fast creation of responsive web presentations, portfolios, and landing page decks.
+
+- 🛠️ **[PptxGenJS](https://github.com/gitbrent/PptxGenJS)** [![GitHub stars](https://img.shields.io/github/stars/gitbrent/PptxGenJS?style=social&color=white)](https://github.com/gitbrent/PptxGenJS/stargazers)  
+  **JavaScript library to generate PowerPoint (.pptx) files programmatically**. Supports tables, charts, images, and custom slide shapes in Node.js or browser apps.
+
+- 🎴 **[Deck.js](https://github.com/imakewebthings/deck.js)** [![GitHub stars](https://img.shields.io/github/stars/imakewebthings/deck.js?style=social&color=white)](https://github.com/imakewebthings/deck.js/stargazers)  
+  **Flexible HTML presentation library**. Features modular extensions, CSS themes, code highlighting, and scale support for mobile and desktop screens.
+
+- 🔌 **[Bespoke.js](https://github.com/bespokejs/bespoke)** [![GitHub stars](https://img.shields.io/github/stars/bespokejs/bespoke?style=social&color=white)](https://github.com/bespokejs/bespoke/stargazers)  
+  **DIY presentation micro-framework**. Lightweight plugin architecture for custom slide transitions, bullet animations, keyboard shortcuts, and touch gestures.
+
+- 🖥️ **[LibreOffice Impress](https://github.com/LibreOffice/core)** [![GitHub stars](https://img.shields.io/github/stars/LibreOffice/core?style=social&color=white)](https://github.com/LibreOffice/core/stargazers)  
+  **The flagship open-source desktop presentation application**. Complete PowerPoint alternative with native ODF slide format support, animations, master slides, and PPTX export.
+
+- 🐍 **[python-pptx](https://github.com/scanny/python-pptx)** [![GitHub stars](https://img.shields.io/github/stars/scanny/python-pptx?style=social&color=white)](https://github.com/scanny/python-pptx/stargazers)  
+  **Python library for creating and modifying PowerPoint (.pptx) files**. Automates slide generation, reporting, chart generation, and bulk presentation updates.
+
+- 🔍 **[Sozi](https://github.com/senshu/Sozi)** [![GitHub stars](https://img.shields.io/github/stars/senshu/Sozi?style=social&color=white)](https://github.com/senshu/Sozi/stargazers)  
+  **SVG zooming presentation application**. Integrates with Inkscape vector artwork to design non-linear presentations using pan, zoom, and rotation paths.
+
+- 🚁 **[Hovercraft](https://github.com/regebro/hovercraft)** [![GitHub stars](https://img.shields.io/github/stars/regebro/hovercraft?style=social&color=white)](https://github.com/regebro/hovercraft/stargazers)  
+  **3D zooming presentation generator**. Compiles reStructuredText (reST) text documents directly into impress.js presentations for Python developers.
+
+---
+
+## 🤝 How to Contribute
+
+1. **Fork** this repository.
+2. Add your suggested SaaS product or Open-Source presentation tool to `README.md`.
+3. Ensure open-source additions include valid GitHub repository URLs and accurate descriptions.
+4. Submit a **Pull Request** with a brief summary of the changes.
+
+For curated lists across other domains, check out [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
+
+---
+
+## ⚠️ Disclaimer
+
+- This repository is a **community-curated overview** for informational purposes.
+- **Format Compatibility**: PPTX fidelity varies across tools. Complex animations and master layouts may render differently when migrating between LibreOffice, OnlyOffice, and PowerPoint.
+- **Markdown Workflow Tools**: Tools like Marp, Slidev, and reveal.js are optimized for developer presentation workflows and technical slide decks.
+
+---
+
+## ❤️ Support & Sponsorship
+
+Thank you for exploring and using **Awesome Presentation Software**! If you find this curated list helpful for your presentation, research, or development needs, please consider supporting the project:
+
+- ⭐ **Star** this repository on GitHub to help others discover it.
+- 🔀 **Fork** and contribute new tools or update pricing data.
+- 📢 **Share** this list with fellow presenters, educators, and developers.
+- ☕ **Buy me a coffee**: Support ongoing open-source maintenance via [GitHub Sponsors](https://github.com/sponsors/ishandutta2007).
+
+<p align="left">
+  <a href="https://github.com/sponsors/ishandutta2007"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github" alt="Sponsor" /></a>
+</p>
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.drra.page/svg?repos=ishandutta2007/Awesome-Presentation-Software&type=daee&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Presentation-Software&type=date&legend=top-left)
